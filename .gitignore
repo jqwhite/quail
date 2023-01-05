@@ -1,2 +1,4 @@
 data/
 references/
+.ipynb_checkpoints/
+.DS_Store
